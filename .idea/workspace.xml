@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5683c391-fe36-4f52-8c20-2acaffa7a8de" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaImage/mysql/install/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaImage/mysql/install/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaImage/mysql/install/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaImage/mysql/install/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaImage/mysql/install/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaImage/mysql/install/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaImage/mysql/install/8.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,7 +20,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="22">
+                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaImage/JavaJDK7/1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaImage/mysql/install/2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -43,8 +88,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="58" />
+    <option name="x" value="212" />
+    <option name="y" value="69" />
     <option name="width" value="1765" />
     <option name="height" value="950" />
   </component>
@@ -106,7 +151,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -136,6 +183,12 @@
               <item name="markDownImage" type="b2602c69:ProjectViewProjectNode" />
               <item name="markDownImage" type="462c0819:PsiDirectoryNode" />
               <item name="javaImage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markDownImage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="markDownImage" type="462c0819:PsiDirectoryNode" />
+              <item name="javaImage" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaJDK7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="markDownImage" type="b2602c69:ProjectViewProjectNode" />
@@ -171,6 +224,7 @@
       <recent name="$PROJECT_DIR$/javaImage/JavaJDK7" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\markDownImage\javaImage\mysql\install" />
       <recent name="$PROJECT_DIR$/javaImage/arithmetic/d2/z7" />
       <recent name="$PROJECT_DIR$/javaImage/JavaJDK7" />
       <recent name="$PROJECT_DIR$" />
@@ -288,7 +342,7 @@
       <workItem from="1512302320800" duration="4634000" />
       <workItem from="1531912536152" duration="2009000" />
       <workItem from="1531996286432" duration="1750000" />
-      <workItem from="1584759001762" duration="152000" />
+      <workItem from="1584759001762" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="提交图片">
       <created>1509675245715</created>
@@ -346,11 +400,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584759105736</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="mysql下载图">
+      <created>1584759157537</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584759157537</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13559000" />
+    <option name="totallyTimeSpent" value="15300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,7 +423,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="58" width="1765" height="950" extended-state="0" />
+    <frame x="212" y="69" width="1765" height="950" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -463,15 +524,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-          <folding>
-            <element signature="e#3412#3416#0" expanded="true" />
-            <element signature="e#3422#3426#0" expanded="true" />
-            <element signature="e#3505#3509#0" expanded="true" />
-            <element signature="e#3515#3519#0" expanded="true" />
-            <element signature="e#3598#3602#0" expanded="true" />
-            <element signature="e#3608#3612#0" expanded="true" />
-            <element signature="e#3623#3627#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -489,6 +542,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -503,6 +557,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -532,6 +587,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -546,6 +602,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -560,6 +617,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -595,27 +653,41 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding>
-            <element signature="e#3412#3416#0" expanded="true" />
-            <element signature="e#3422#3426#0" expanded="true" />
-            <element signature="e#3505#3509#0" expanded="true" />
-            <element signature="e#3515#3519#0" expanded="true" />
-            <element signature="e#3598#3602#0" expanded="true" />
-            <element signature="e#3608#3612#0" expanded="true" />
-            <element signature="e#3623#3627#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaImage/JavaJDK7/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaImage/mysql/install/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
